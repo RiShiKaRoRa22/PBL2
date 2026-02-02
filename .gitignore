@@ -1,1 +1,11 @@
 /venv
+
+# Ignore data files
+data/
+*.csv
+
+# Ignore virtual environment
+venv/
+
+# Python cache
+__pycache__/
